@@ -14,9 +14,7 @@
   }
 
  Student* Node::getStudent() {
-
-   return nextStu;
-   
+    return nextStu;
  }
 
  void Node::setNext(Node* next1) {
